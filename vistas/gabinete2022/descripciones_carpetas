@@ -1,0 +1,10 @@
+carpetas 
+1.- db
+2.- clases contiene todas las clases de cada modulo  metodo CRUD
+3.- css: contiene los scripts css que serviran para loe estilos personalizados
+4.- img. contenie todas las igmanes que necesisten nuestras vista 
+5.- archivos:  conteine todas la imganes de los  producctos agragados
+6.-  js: conteine todos los script para cada modulo para ejecutar las funciones de crud
+7.- librerias: contendra librerias para la creacion de pdf, jquery , alertifafy y boostrap y selet 2
+8: procesos contiene los archivos intermedios entre las clases y vistas, estos enviaran informacion de una y otra.
+9: vistas contendra todas las vista de cada uno.
